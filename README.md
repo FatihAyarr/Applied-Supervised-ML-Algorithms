@@ -1,1 +1,1 @@
-# Applied-Supervised-ML-Algorithms
+# Applied Supervised ML Algorithms
